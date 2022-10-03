@@ -1,0 +1,8 @@
+.text {
+    display: none;
+    overflow: hidden;
+}
+
+.active {
+    background-color: salmon;
+}

@@ -1,0 +1,7 @@
+Här har du en enkel HTML, CSS samt JS. Det jag vill att du löser är följande:
+
+När man klickar på en av rubrikerna (h2) så ska paragrafen nedan "öppnas"/visas. När man klickar igen så ska samma paragraf döljas.
+
+För att hantera detta så behöver du använda en eventlistener i main.js, något sätt att snappa upp klassnamn samt stega igenom listan med klasser med hjälp av JS.
+
+Du behöver inte ändra något mer än att lägga till din egen JavaScript-kod i main.js.
